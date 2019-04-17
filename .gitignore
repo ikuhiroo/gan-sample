@@ -5,3 +5,4 @@ data
 MNIST_data
 udemy-gan
 Users
+*.pkl
